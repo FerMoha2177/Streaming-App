@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29c2698c-b9b1-4379-a759-5eff283b87ff" name="Default Changelist" comment="" />
+    <list default="true" id="29c2698c-b9b1-4379-a759-5eff283b87ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/objects/9c/3e86e8c35e73c83233390f31f195b8cd60cc1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/objects/b8/c5a5a3c13f08610ca3c10d7e58efa0830b47cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/objects/f7/21a1f5edde3560f1f51a6ba91b775155d902a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streaming-App.git/packed-refs" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZsJBfe3Yps1A6xsrj4GUjdZ0co" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
