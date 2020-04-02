@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Live + Static Feed</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Live Camera Feed:</h1>
+  <p>This page shows your live camera feed! Made with OpenCV + Flask + BootStrap </p>
+  <img src="{{ url_for('video_feed') }}">
+</div>
+
+
+
+
+
+
+<div class="jumbotron text-center">
+  <h1>Static Video:</h1>
+  <p>Static Video Streaming made with Flask + BootStrap </p>
+   <video width="720" controls>
+                    <source src="./static/biglezshow.mp4" type="video/mp4">
+   </video>
+</div>
+
+
+<div class="container text-center">
+
+  <h1>
+    <a href="static_streaming.html"
+    STREAM STATIC CONTENT
+    </a>
+  </h1>
+  <p>Stream Static video here!</p>
+
+</div>
+
+</body>
+</html>
